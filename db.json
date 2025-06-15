@@ -1,0 +1,70 @@
+{
+  "sneakers": [
+    {
+      "id": "ca4c",
+      "name": "Nike SB Dunk High MF Doom",
+      "brand": "Nike SB",
+      "size": "42,5",
+      "color": "Grey",
+      "price": "1600",
+      "condition": "Used",
+      "purchaseDate": "2018-05-28",
+      "image": "/images/Nike-Dunk-SB-High-MF-Doom-2007-Product.jpg"
+    },
+    {
+      "id": "c375",
+      "name": "Air Jordan 5 x Off White - Muslin ",
+      "brand": "Air Jordan, Off White",
+      "size": "42,5",
+      "color": "Grey",
+      "price": "800",
+      "condition": "Like New",
+      "purchaseDate": "2025-06-11",
+      "image": "/images/jordan5muslin.jpg"
+    },
+    {
+      "id": "07ae",
+      "name": "Air Jordan 5 x Supreme Camo",
+      "brand": "Air Jordan",
+      "size": "43",
+      "color": "Brown",
+      "price": "602",
+      "condition": "New",
+      "purchaseDate": "2024-07-10",
+      "image": "/images/Air-Jordan-5-Retro-Supreme-Desert-Camo-Product.jpg"
+    },
+    {
+      "id": "5d78",
+      "name": "Air Jordan 3 Retro Wizards",
+      "brand": "Air Jordan",
+      "size": "43",
+      "color": "White/Blue",
+      "price": "240",
+      "condition": "Like New",
+      "purchaseDate": "2024-05-10",
+      "image": "/images/Air-Jordan-3-Retro-Wizards-Product.jpg"
+    },
+    {
+      "id": "9f17",
+      "name": "Air Jordan 8 Retro Aqua",
+      "brand": "Air Jordan",
+      "size": "43",
+      "color": "Black/Purple/blue",
+      "price": "280",
+      "condition": "Used",
+      "purchaseDate": "2023-05-03",
+      "image": "/images/Air-Jordan-8-Retro-Aqua-2015-Product.jpg"
+    },
+    {
+      "id": "c686",
+      "name": "Air Jordan 4 Bred",
+      "brand": "Air Jordan",
+      "size": "43",
+      "color": "Black/Red",
+      "price": "220",
+      "condition": "Used",
+      "purchaseDate": "2023-05-08",
+      "image": "/images/jordan4bred.jpg"
+    }
+  ]
+}
